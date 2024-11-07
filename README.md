@@ -8,4 +8,4 @@ Lab Assignments of MA473 - Computational Finance 2024.
 
 3. Lab 05 - The plots for order of convergence and delx vs max Error plots were giving absurd results when calculated by giving finite limit to the integral, and NaN and INF values if limit was passed to be infinite.
 
-<TO BE UPDATED>
+-------------------- TO BE UPDATED --------------------
